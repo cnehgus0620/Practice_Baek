@@ -18,5 +18,8 @@
     <ClCompile Include="2083_럭비클럽.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2439_별 찍기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
