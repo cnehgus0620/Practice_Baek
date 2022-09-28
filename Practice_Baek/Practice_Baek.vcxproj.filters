@@ -21,5 +21,17 @@
     <ClCompile Include="2439_별 찍기.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2440_별 찍기2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6749_NextInLine.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6763_SpeedFinesAreNotFine.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6764_SoundsFishy.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
