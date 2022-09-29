@@ -39,5 +39,32 @@
     <ClCompile Include="1247_부호.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1181_단어 정렬.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6778_WhichAlien.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6810_ISBN.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7891_CanYouAddThis.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="8723_Patyki.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="8760_Schronisko.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10039_평균 점수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10101_삼각형 외우기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10156_과자.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
