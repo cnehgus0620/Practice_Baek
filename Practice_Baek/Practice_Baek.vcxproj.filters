@@ -66,5 +66,35 @@
     <ClCompile Include="10156_과자.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="10768_특별한 날.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10797_10부제.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10808_알파벳 개수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11257_ITPassportExamination.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11282_한글.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11720_숫자의 합.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11943_파일 옮기기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11945_뜨거운 붕어빵.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11948_과목선택.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11948_2_과목선택.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
