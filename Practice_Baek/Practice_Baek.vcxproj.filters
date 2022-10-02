@@ -13,88 +13,109 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\0_9999">
+      <UniqueIdentifier>{622d348d-ddb8-4861-8dcc-613d82dab63a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\10000_19999">
+      <UniqueIdentifier>{2de23b74-a52c-4cd7-8228-54945b8be4dd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2083_럭비클럽.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2439_별 찍기.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2440_별 찍기2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="6749_NextInLine.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="6763_SpeedFinesAreNotFine.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="6764_SoundsFishy.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="1085_직사각형에서 탈출.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1247_부호.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\0_9999</Filter>
     </ClCompile>
     <ClCompile Include="1181_단어 정렬.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\0_9999</Filter>
+    </ClCompile>
+    <ClCompile Include="1247_부호.c">
+      <Filter>소스 파일\0_9999</Filter>
+    </ClCompile>
+    <ClCompile Include="2439_별 찍기.c">
+      <Filter>소스 파일\0_9999</Filter>
+    </ClCompile>
+    <ClCompile Include="2083_럭비클럽.c">
+      <Filter>소스 파일\0_9999</Filter>
+    </ClCompile>
+    <ClCompile Include="2440_별 찍기2.c">
+      <Filter>소스 파일\0_9999</Filter>
+    </ClCompile>
+    <ClCompile Include="6749_NextInLine.c">
+      <Filter>소스 파일\0_9999</Filter>
+    </ClCompile>
+    <ClCompile Include="6763_SpeedFinesAreNotFine.c">
+      <Filter>소스 파일\0_9999</Filter>
+    </ClCompile>
+    <ClCompile Include="6764_SoundsFishy.c">
+      <Filter>소스 파일\0_9999</Filter>
     </ClCompile>
     <ClCompile Include="6778_WhichAlien.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\0_9999</Filter>
     </ClCompile>
     <ClCompile Include="6810_ISBN.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\0_9999</Filter>
     </ClCompile>
     <ClCompile Include="7891_CanYouAddThis.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\0_9999</Filter>
     </ClCompile>
     <ClCompile Include="8723_Patyki.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\0_9999</Filter>
     </ClCompile>
     <ClCompile Include="8760_Schronisko.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\0_9999</Filter>
     </ClCompile>
     <ClCompile Include="10039_평균 점수.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\10000_19999</Filter>
     </ClCompile>
     <ClCompile Include="10101_삼각형 외우기.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\10000_19999</Filter>
     </ClCompile>
     <ClCompile Include="10156_과자.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\10000_19999</Filter>
     </ClCompile>
     <ClCompile Include="10768_특별한 날.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\10000_19999</Filter>
     </ClCompile>
     <ClCompile Include="10797_10부제.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\10000_19999</Filter>
     </ClCompile>
     <ClCompile Include="10808_알파벳 개수.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\10000_19999</Filter>
     </ClCompile>
     <ClCompile Include="11257_ITPassportExamination.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\10000_19999</Filter>
     </ClCompile>
     <ClCompile Include="11282_한글.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\10000_19999</Filter>
     </ClCompile>
     <ClCompile Include="11720_숫자의 합.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\10000_19999</Filter>
     </ClCompile>
     <ClCompile Include="11943_파일 옮기기.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\10000_19999</Filter>
     </ClCompile>
     <ClCompile Include="11945_뜨거운 붕어빵.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="11948_과목선택.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\10000_19999</Filter>
     </ClCompile>
     <ClCompile Include="11948_2_과목선택.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\10000_19999</Filter>
+    </ClCompile>
+    <ClCompile Include="11948_과목선택.c">
+      <Filter>소스 파일\10000_19999</Filter>
+    </ClCompile>
+    <ClCompile Include="13118_뉴턴과 사과.c">
+      <Filter>소스 파일\10000_19999</Filter>
+    </ClCompile>
+    <ClCompile Include="13136_DoNotTouchAnything.c">
+      <Filter>소스 파일\10000_19999</Filter>
+    </ClCompile>
+    <ClCompile Include="13496_TheMerchantofVenice.c">
+      <Filter>소스 파일\10000_19999</Filter>
+    </ClCompile>
+    <ClCompile Include="13866_팀 나누기.c">
+      <Filter>소스 파일\10000_19999</Filter>
+    </ClCompile>
+    <ClCompile Include="1267_핸드폰 요금.c">
+      <Filter>소스 파일\0_9999</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
