@@ -117,5 +117,17 @@
     <ClCompile Include="1267_핸드폰 요금.c">
       <Filter>소스 파일\0_9999</Filter>
     </ClCompile>
+    <ClCompile Include="1284_집 주소.c">
+      <Filter>소스 파일\0_9999</Filter>
+    </ClCompile>
+    <ClCompile Include="1547_공.c">
+      <Filter>소스 파일\0_9999</Filter>
+    </ClCompile>
+    <ClCompile Include="1703_생장점.c">
+      <Filter>소스 파일\0_9999</Filter>
+    </ClCompile>
+    <ClCompile Include="1837_암호제작.c">
+      <Filter>소스 파일\0_9999</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

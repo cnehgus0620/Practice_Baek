@@ -21,6 +21,6 @@ int main() {
 	if (Y < M) printf("Y %d", Y);
 	else if (Y > M) printf("M %d", M);
 	else printf("Y M %d", Y);
-	
+
 	return 0;
 }
